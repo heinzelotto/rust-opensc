@@ -11,4 +11,4 @@ The OpenSC shared library must be installed on you system to build the crate and
 
 # Licensing
 
-Please note that OpenSC is LGPL-2.1 licensed. This crate will link dynamically against OpenSC to ensure the requirements of the LGPL are satisfied. The crate itself is licensed as MIT/Apache.
+Please note that OpenSC is LGPL-2.1 licensed. This crate will link dynamically against OpenSC to ensure the requirements of the LGPL are satisfied. The crate itself is licensed as MIT.
