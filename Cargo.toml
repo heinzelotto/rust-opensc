@@ -1,0 +1,13 @@
+[package]
+name = "opensc"
+version = "0.0.0"
+authors = ["Felix Monninger <felix.monninger@gmail.com>"]
+edition = "2018"
+license = "MIT OR Apache-2.0"
+description = "Safe bindings to OpenSC"
+repository = "https://github.com/heinzelotto/rust-opensc"
+readme = "README.md"
+categories = ["api-bindings"]
+
+[dependencies]
+opensc-sys = "0.1.0"
